@@ -39,3 +39,4 @@ yarn-error.log*
 
 # Sanity
 /sanity/node_modules
+/sanity-details.txt
